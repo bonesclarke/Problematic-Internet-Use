@@ -1,6 +1,7 @@
 # Added custom folders
 input/series_test.parquet/
 input/series_train.parquet/
+supplemental_data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
